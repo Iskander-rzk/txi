@@ -92,4 +92,4 @@ int main() {
     rifle->ShowInfo();
     rifle->HelloWorld();
     return 0;
-}
+} 
